@@ -1,0 +1,15 @@
+
+Quiz Classification
+
+Question 3
+Perhatikan gambar berikut. Jelaskan apa yang dimaksud f11, f10, f01 dan f00?
+
+
+tabel tersebut merupakan matriks konfusi (confusion matrix),
+digunakan untuk mengukur ketepatan klasifikasi dari model regresi yang dibentuk, semakin
+tinggi nilai ketepatan, maka akan semakin baik model regresi yang
+dibentuk, sehingga semakin kecil kesalahan dalam pengklasifikasian.
+
+kolom fij menunjukkan Observed data. 
+Pada kolom hasil prediksi, f11 menunjukkan True Positif dari kelas 1 dan f10 menunjukkan True Negatif dari kelas 1.
+sedangkan f01 menunjukkan False Positif dari kelas 0 dan f00 menunjukkan False Negatif dari kelas 0.

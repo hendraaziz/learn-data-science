@@ -1,0 +1,7 @@
+Quiz Classification
+
+Question 2
+Classification adalah supervised machine learning. Apa maksud pernyataan tersebut?
+
+Classification adalah supervised machine learning, di mana supervised learning merupakan proses mendapatkan prediksi 
+atau output yang didapat dari pembelajaran pada data training yang terdapat label/target di dalamnya.

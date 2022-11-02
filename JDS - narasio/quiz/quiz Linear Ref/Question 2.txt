@@ -1,0 +1,6 @@
+Question 2
+
+Apa saja yang dapat Anda jelaskan dari gambar berikut?
+
+Dari visualisasi pada Gambar Heatmap tersebut terdapat korelasi positif 
+paling kuat adalah antar variabel X1 dan Y. Artinya, semakin besar X1 maka nilai Y juga akan semakin besar.

@@ -1,0 +1,11 @@
+Quiz Clustering
+
+Question 4
+Perhatikan gambar berikut. Apa yang dapat Anda jelaskan?
+
+Dari gambar tersebut terlihat ada 4 cluster yaitu:
+cluster 1 (kuning), cluster 2 (hijau), cluster 3 (orange), cluster 4 (hitam).
+Cluster 1 menunjukkan cluster dengan tingkat pembelian yang tinggi dan jumlah pelanggan yang besar/banyak.
+Cluster 2 menunjukkan cluster dengan tingkat pembelian yang tinggi namun jumlah pelanggan yang kecil/sedikit. 
+Cluster 3 menunjukkan cluster dengan tingkat pembelian rendah/kecil dan jumlah pelanggan yang kecil/sedikit juga.
+Cluster 4 menunjukkan cluster dengan tingkat pembelian rendah/kecil namun jumlah pelanggan yang banyak/besar. 

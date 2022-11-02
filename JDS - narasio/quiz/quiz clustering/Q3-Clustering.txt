@@ -1,0 +1,13 @@
+Quiz Clustering
+
+Question 3
+Perhatikan gambar berikut! Jelaskan apa yang anda ketahui dari gambar di bawah!
+
+Dari hasil analisis, diperoleh 3 cluster yaitu cluster hijau cerah, cluster toska, dan cluster hitam.
+Jika dilihat, cluster hijau cerah memiliki recency rendah dengan frequency rendah dan monetary rendah.
+Artinya, pelanggan kelompok ini termasuk pelanggan baru/baru saja bertransaksi, jarang melakukan transaksi(sedikit) dan mengeluarkan uang sedikit.
+Cluster toska memiliki recency besar/tinggi dengan frequency dan monetary yang tidak sedikit dan tidak juga banyak.
+Artinya, pelanggan kelompok ini sudah lama dan tidak terlalu sering melakukan transaksi sehingga uang yang dikeluarkan pelanggan tidak banyak dan tidak pula sedikit.
+Sedangkan cluster hitam, memiliki recency rendah, frequency dan monetary lebih tinggi dari cluster lainnya.
+Artinya, pelanggan kelompok ini pelanggan yang belum lama, sering pula melakukan transaksi dengan uang yang dikeluarkan banyak/besar.
+Sehingga, dapat dikatakan cluster hijau cerah adalah pelanggan silver, cluster toska pelanggan gold dan cluster hitam pelanggan platinum.

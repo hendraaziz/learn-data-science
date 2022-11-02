@@ -1,0 +1,10 @@
+Quiz Clustering
+
+Question 2
+Apa yang dapat Anda sampaikan dari gambar berikut?
+
+Gambar tersebut adalah potongan gambar implementesi untuk Penentuan nilai k optimum
+dengan menggunakan silhouette score.
+Dari silhouette score didapat bahwa score tertinggi terletak di k = 2 yaitu
+0.704. maka didapat bahwa k optimum adalah pada k = 2.
+Oleh karena itu, k = 2 adalah k optimal dalam mensegmentasi di dalam data ini.

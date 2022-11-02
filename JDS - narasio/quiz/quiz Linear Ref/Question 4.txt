@@ -1,0 +1,24 @@
+- Nilai p>|t| area, bathroom, stories, mainroad, hotwaterheating, airconditioning, prefarea= 0,000 , 
+kemudian guestroom dan unfurnished kurang dari 0,05 berarti bahwa 
+variabel-variabel independen memberikan pengaruh secara signifikan terhadap
+variabel dependen, tetapi Nilai p>|t| intercept sebesar 0.34 yang berarti
+intercept tidak berpengaruh signifikan terhadap model dan garis regresi
+melewati titik pusat (0,0). Oleh karena itu, intercept atau konstanta boleh
+dihilangkan dari model.
+
+- Nilai coef-Area 0,2347 artinya besarnya pengaruh variabel independen
+Area 0,2347 poin, pada kasus kali ini, jika nilai Area bertambah
+satu, maka nilai sale price bertambah 0,2347
+
+- Nilai coef-unfurnished -0,031 artinya besarnya pengaruh variabel independen
+unfurnished -0,031 poin, pada kasus kali ini, jika nilai unfurnished bertambah satu,
+maka nilai sale price bertambah -0,031
+
+
+- Nilai R-squared 0,681, artinya variabel dependen sale price dapat
+dijelaskan oleh ketiga belas variabel independen sebesar 68,1% , makin besar nilai
+R-squared akan semakin bagus.
+
+- Nilai AIC -735.6 dan BIC -680,4, nilai ini dapat digunakan ketika dalam analisis
+regresi menghasilkan beberapa model, dan dijadikan acuan untuk memilih
+model mana yang terbaik dengan melihat nilai AIC dan BIC yang terkecil.

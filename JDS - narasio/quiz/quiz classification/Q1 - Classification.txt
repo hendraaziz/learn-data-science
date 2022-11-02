@@ -1,0 +1,11 @@
+Quiz Classification
+
+Question 1
+Apa yang Anda ketahui tentang klasifikasi? Metode apa yang bisa digunakan untuk melakukan klasifikasi?
+
+Classification adalah proses untuk mengklasifikasikan/mengkategorikan
+suatu data berdasarkan label/class yang telah diberikan sebelumnya.
+
+Tujuan classification adalah memprediksi label/class/kategori suatu data.
+
+Beberapa contoh metode yang termasuk Classification adalah Logistic Regression, Naive Bayes, K-Nearest Neighbours, Decision Tree, Random Forest, Support Vector Machine.

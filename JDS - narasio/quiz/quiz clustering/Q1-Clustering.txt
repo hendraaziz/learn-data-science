@@ -1,0 +1,18 @@
+Quiz Clustering
+
+Question 1
+Apa saja tahapan dalam melakukan clustering?
+
+Langkah-langkah clustering dengan metode K-Means
+1. Memilih indikator yang akan digunakan dalam clustering
+2. Menentukan berapa banyak cluster atau jumlah K dari dataset yang akan dibagi.
+  Untuk menentukan jumlah dapat menggunakan 3 cara yaitu:
+  a. menentukan sendiri
+  b. menggunakan metode Elbow
+  c. menggunakan metode silhouette score
+3. Tetapkan secara acak data k menjadi pusat awal lokasi klaster. (menentukan nilai centroid)
+4. Untuk masing-masing data, temukan pusat cluster terdekat. 
+  Dengan demikian berarti masing-masing pusat cluster memiliki sebuah subset dari dataset, sehingga mewakili bagian dari dataset. 
+  Oleh karena itu, telah terbentuk cluster k: C1, C2, C3, …, Ck .
+5. Untuk masing-masing cluster k, temukan pusat luasan klaster, dan perbarui lokasi dari masing-masing  pusat cluster ke nilai baru dari  pusat luasan.
+6. Ulangi langkah ke-3 dan ke-5 hingga data-data pada tiap cluster menjadi terpusat atau selesai.

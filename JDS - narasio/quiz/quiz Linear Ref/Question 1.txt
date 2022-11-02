@@ -1,0 +1,7 @@
+Question 1
+
+Apakah yang membedakan antara simple linear regression dengan multiple linear regression?
+
+simple linear regression adalah regresi yang hanya melibatkan dua variabel, yaitu 1 (satu) variabel dependen atau variabel tergantung dan 1 (satu) variabel independen atau bebas. Pada analisis regresi sederhana, hubungan antara variabel bersifat linier, dimana perubahan pada variabel X akan diikuti oleh perubahan pada variabel Y secara tetap. Selain itu, analisis regresi linear sederhana bertujuan untuk forecast atau memprediksi nilai Y. Model regresi linear sederhana yang baik harus memenuhi asumsi eksogenitas, linearitas, autokorelasi, dan varians error.
+
+multiple linear regression adalah regresi yang melibatkan lebih dari dua variabel, yaitu 1 (satu) variabel dependen atau variabel terikat, dan lebih dari 1 (satu) variabel independen atau bebas. Model ini disebut multiple linear, karena beberapa variabel independen ini akan berpengaruh pada variabel dependen. multiple linear regression bertujuan untuk mengetahui manakah variabel independen yang paling berpengaruh atau memiliki hubungan paling kuat terhadap variabel dependen. Selain itu, metode ini juga digunakan untuk menguji hipotesis karakteristik dependensi.
